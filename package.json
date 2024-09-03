@@ -1,0 +1,23 @@
+{
+    "name": "backend",
+    "version": "1.0.0",
+    "description": "REST API's con Express y Typescript",
+    "main": "index.js",
+    "scripts": {
+        "dev": "npx ts-node src/index.ts"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kellerkatlin/Administrador_de_Productos_PERN.git"
+    },
+    "author": "Keller Katlin",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/kellerkatlin/Administrador_de_Productos_PERN/issues"
+    },
+    "homepage": "https://github.com/kellerkatlin/Administrador_de_Productos_PERN#readme",
+    "devDependencies": {
+        "ts-node": "^10.9.2",
+        "typescript": "^5.5.4"
+    }
+}
